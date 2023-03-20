@@ -278,3 +278,8 @@ img {
   align-items: center;
   border-radius: 50%;
 }
+
+.footer-soc-link:hover,
+.footer-soc-link:focus {
+  background: #31D0AA;
+}
